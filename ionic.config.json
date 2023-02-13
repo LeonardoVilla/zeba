@@ -1,0 +1,8 @@
+{
+  "name": "zeba",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "5f220b22"
+}
